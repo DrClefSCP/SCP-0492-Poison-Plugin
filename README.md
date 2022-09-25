@@ -1,7 +1,7 @@
 # SCP-0492-Poison-Plugin
-This plugin makes that everytime 0492 attacks a player, this player recieves poison effect and can be cured with painkillers
+Este plugin hace que cada vez que el 0492 te ataca te da el efecto de Poisoned hasta que tomes Painkillers
 
-References you will have to add:
+Referencias que debes añadir:
 - Assembly-CSharp.dll
 - Exiled.Events.dll
 - Exiled.API.dll
